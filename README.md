@@ -9,7 +9,7 @@ A buy and sell e-commerce application for plants built with a React.js and Redux
 
 #### :link: <a href="https://seedlink.netlify.app/">Website</a>
 #### :link: <a href="https://vimeo.com/923620570/fe65a6381c">Video</a>
-#### :link: <a href="https://github.com/ashhhlynn/final-marketplace-api">Back End</a> 
+#### :link: <a href="https://github.com/ashhhlynn/marketplace-api">Back End</a> 
 
 ### Technology Used
 - Ruby on Rails
@@ -35,24 +35,17 @@ A buy and sell e-commerce application for plants built with a React.js and Redux
 - View history of order invoices at profile page 
 
 ### Media 
-
-![Screenshot (154)](https://github.com/ashhhlynn/final-marketplace-frontend/assets/84604278/2bb955fe-8166-4223-8beb-3c370fb890a9)
-
-
-![Screenshot (155)](https://github.com/ashhhlynn/final-marketplace-frontend/assets/84604278/3b28bdfa-68c4-4fc9-b720-c4ac64b09730)
-
-
-![Screenshot (156)](https://github.com/ashhhlynn/final-marketplace-frontend/assets/84604278/b07a916d-24fa-4d23-a6ce-f74a38dd905f)
-
-
-![Screenshot (193)](https://github.com/ashhhlynn/final-marketplace-frontend/assets/84604278/2dd27cc8-8f60-41eb-83b3-461da4074821)
+<img src="https://github.com/ashhhlynn/final-marketplace-frontend/assets/84604278/2bb955fe-8166-4223-8beb-3c370fb890a9" style="height=80%;width=80%">
+<img src="https://github.com/ashhhlynn/final-marketplace-frontend/assets/84604278/3b28bdfa-68c4-4fc9-b720-c4ac64b09730" style="height=80%;width=80%">
+<img src="https://github.com/ashhhlynn/final-marketplace-frontend/assets/84604278/b07a916d-24fa-4d23-a6ce-f74a38dd905f" style="height=80%;width=80%">
+<img src="https://github.com/ashhhlynn/final-marketplace-frontend/assets/84604278/2dd27cc8-8f60-41eb-83b3-461da4074821" style="height=80%;width=80%">
 
 ### Setup
   ```sh
-  $ git clone https://github.com/ashhhlynn/final-marketplace-frontend.git 
+  $ git clone https://github.com/ashhhlynn/marketplace-frontend.git 
   ```
   ```sh
-  $ cd final-marketplace-frontend 
+  $ cd marketplace-frontend 
   ```
   ```sh
   $ npm install 
