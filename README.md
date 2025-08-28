@@ -7,7 +7,7 @@ A buy and sell e-commerce application for plants built with a React.js front end
 </tr>
 </table>
 
-#### :link: <a href="https://seedlink.netlify.app/">Website</a> :link: <a href="https://vimeo.com/923620570/fe65a6381c">Video</a>
+#### :link: <a href="https://seedlink.netlify.app/">Website</a> 
 #### :link: <a href="https://github.com/ashhhlynn/marketplace-api">Back End</a> 
 
 ### Technologies
